@@ -1,2 +1,2 @@
 # Python-URI
-Aqui fica 
+Exercicios do URI JUDGE resolvidos em Python
